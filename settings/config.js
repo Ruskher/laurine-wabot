@@ -8,8 +8,8 @@
 
 const fs = require('fs')
 
-global.owner = "6281351692548"
-global.linkch = "https://whatsapp.com/channel/0029Vask3D80rGiHtQYeeo27"
+global.owner = "6283890107168"
+global.linkch = "Blm Tersedia segera update"
 
 global.status = true
 global.welcome = true
@@ -20,8 +20,8 @@ global.mess = {
     private: "this is specifically for private chat"
 }
 
-global.packname = '¿? laurine'
-global.author = 'https://www.kyuurzy.tech'
+global.packname = '¿? BoT'
+global.author = 'blm ada'
 global.pairing = "PELERRRR"
 
 global.KEY = "GET APIKEY elevenlabs.io"
